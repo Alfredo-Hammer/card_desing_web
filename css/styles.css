@@ -70,3 +70,9 @@ body{
     font-size: 2rem;
     color: #444;
 }
+
+.container .products-container .product i{
+    align-items: center;
+    color: #27ea60;
+    font-size: 1.5rem;
+}
